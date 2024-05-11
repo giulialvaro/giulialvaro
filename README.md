@@ -1,6 +1,6 @@
 # Hi, I'm <a href="https://www.linkedin.com/in/giuliana-alvaro-8a0059178/" target="_blank">Giuliana</a>! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNnbG00bXplNDd4ejFkanI1YTM2bDZ0emlyaXJtdmF3anB2a2RiZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zq4TDUWJ9y968/giphy.gif" width="50">
 
-Marketing graduate turned data enthusiast, I'm on a mission to master the art of data science. Fueled by a passion for uncovering hidden stories within data and transforming them into meaningful insights, I thrive on the challenge of solving complex problems. With a keen eye for detail and a natural curiosity, I'm always seeking new opportunities to learn and grow. Let's collaborate and create something amazing together!
+Marketing graduate turned data enthusiast, I'm on a mission to master the art of data science. Fueled by a passion for uncovering hidden stories within data and transforming them into meaningful insights. I'm also drawn to UX/UI design creating useful and user-friendly spaces based on users' needs. With a keen eye for detail and a natural curiosity, I'm always seeking new opportunities to learn and grow. Let's collaborate and create something amazing together!
 <br/>
 
 #### **About me...**

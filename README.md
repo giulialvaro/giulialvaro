@@ -1,16 +1,18 @@
 # Hi, I'm <a href="https://www.linkedin.com/in/giuliana-alvaro-8a0059178/" target="_blank">Giuliana</a>! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNnbG00bXplNDd4ejFkanI1YTM2bDZ0emlyaXJtdmF3anB2a2RiZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zq4TDUWJ9y968/giphy.gif" width="50">
 
-Marketing bachelor at heart and data scientist in process passionate about telling stories through data. I love exploring and learning new tech stack.
+Marketing graduate turned data enthusiast, I'm on a mission to master the art of data science. Fueled by a passion for uncovering hidden stories within data and transforming them into meaningful insights, I thrive on the challenge of solving complex problems. With a keen eye for detail and a natural curiosity, I'm always seeking new opportunities to learn and grow. Let's collaborate and create something amazing together!
 <br/>
 
 #### **About me...**
 
 - 💻: Data Analyst with +2 years of experience
-- 🧪: Currently diving into the world of Machine Learning
-- 👽: Pythonista and statistics self-confessed nerd
-- 📊: Spreadsheets and dashboards as my canvas
-- 💪🏻: Always eager to sink into new projects and challenges
-- 💛: Huge photography, pottery and pasta lover
+- 🧪: Currently diving deep into the world of Machine Learning
+- 👽: Self-confessed Pythonista and stats nerd
+- 📊: My life finds order and meaning with spreadsheets
+- 💪🏻: Embracing new challenges and projects with enthusiasm
+- 💛: Huge photography, pottery, and pasta lover
+
+
 
 ## Skill Set
   
@@ -81,4 +83,4 @@ Marketing bachelor at heart and data scientist in process passionate about telli
 ---
 
 <p align="center">Made with ❤️</p>
-Last Edited on: 10/05/2024
+Last Edited on: 11/05/2024
